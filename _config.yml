@@ -24,9 +24,10 @@ gaaccount: ''
 # disable on a post-by-post basis
 disqus: ''
 comments: true
+pygments: true
 
 permalink: /:year/:month/:title
-paginate: 3
+paginate: 10
 
 highlighter: pygments
 #markdown: kramdown
