@@ -31,10 +31,10 @@ permalink: /:year/:month/:title
 paginate: 10
 
 #highlighter: pygments
-#markdown: kramdown
-
-markdown: redcarpet
-redcarpet:
+markdown: kramdown
+#markdown: redcarpet
+#redcarpet:
+kramdown:
     extensions: [ "fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
     
 exclude: ['README.md', 'LICENSE']
