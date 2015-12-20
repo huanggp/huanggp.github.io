@@ -20,6 +20,7 @@ GitHub  博客搭建过程
 访问路径就是 http://username.github.io/projectName
 
 <!-- more -->
+
 + 2 独立项目 
 
 本次设置是用一个独立帐号进行设置，设置分支为 master ,并且将projectName设置为 username.github.io
