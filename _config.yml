@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Daniel's Blog
-description: 写自己的博客，练自己的技术      关注大数据、机器学习
+description: 关注大数据、机器学习
 
 # url is currently only used only for the RSS feed in feed.xml
 url: http://huanggp.github.io
