@@ -1,14 +1,8 @@
-
 ---
-
 layout: post
-
 title: "SBT 配置过程"
-
 date: 2015-12-02 14:25:06 -0700
-
 comments: false
-
 ---
 
 
