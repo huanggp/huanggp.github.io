@@ -33,12 +33,15 @@ paginate: 10
 highlighter: pygments
 #markdown: kramdown
 #markdown: redcarpet
-markdown: rdiscount
+#markdown: rdiscount
 
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 #redcarpet:
 #kramdown:
-rdiscount:
-    extensions: [ "fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
+#rdiscount:
+#    extensions: [ "fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
     
 exclude: ['README.md', 'LICENSE']
