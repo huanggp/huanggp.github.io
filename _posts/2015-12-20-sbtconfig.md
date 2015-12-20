@@ -75,7 +75,7 @@ drwxrwxr-x   5 daniel daniel  4096 12月 10 16:59 boot/
 ```
 
 设置了oschina下载源，如果有其他下载源都在这里配置
-
+$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 
 
