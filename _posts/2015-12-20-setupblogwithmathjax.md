@@ -6,7 +6,7 @@ comments: false
 
 ---
  
-[TOC] 
+[toc] 
  
 GitHub  博客搭建过程
 
