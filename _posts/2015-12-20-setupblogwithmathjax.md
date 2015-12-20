@@ -10,7 +10,6 @@ comments: false
 GitHub  博客搭建过程
 
 
-"\n\n\n"
 
 # 一、 fork 一个基于jekyll的项目开始
 
