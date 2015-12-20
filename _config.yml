@@ -34,7 +34,17 @@ paginate: 10
 markdown: kramdown
 #markdown: redcarpet
 #redcarpet:
+#kramdown:
+#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 kramdown:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  use_coderay: true
+  syntax_highlighter: rouge
+  coderay:
+    coderay_line_numbers:  nil
+    
 exclude: ['README.md', 'LICENSE']
