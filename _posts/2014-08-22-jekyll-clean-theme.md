@@ -89,4 +89,5 @@ respective owners:
 * js/jquery.min.js - [jquery](https://jquery.com)
 * images/cc_by_88x31.png - [creative commons](https://creativecommons.org)
 
-$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
+
+$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
