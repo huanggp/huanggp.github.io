@@ -50,4 +50,6 @@ _config.yml 中对markdown 的配置保留默认的（本例没有使用 kramdow
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 ##公式二
 $$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$$
+
 <!-- toc-end -->
+
