@@ -31,20 +31,10 @@ permalink: /:year/:month/:title
 paginate: 10
 
 #highlighter: pygments
-markdown: kramdown
-#markdown: redcarpet
-#redcarpet:
-#kramdown:
-#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-kramdown:
-  input: GFM
-  extensions:
-    - autolink
-    - footnotes
-    - smart
-  use_coderay: true
-  syntax_highlighter: rouge
-  coderay:
-    coderay_line_numbers:  nil
+#markdown: kramdown
+
+markdown: redcarpet
+redcarpet:
+    extensions: [ "fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
     
 exclude: ['README.md', 'LICENSE']
