@@ -25,15 +25,16 @@ gaaccount: ''
 disqus: ''
 comments: true
 pygments: true
-
+safe: false
+excerpt_separator: "\n\n\n"
 permalink: /:year/:month/:title
 paginate: 10
 
-highlighter: pygments
-#markdown: kramdown
-markdown: redcarpet
-redcarpet:
-#kramdown:
+#highlighter: pygments
+markdown: kramdown
+#markdown: redcarpet
+#redcarpet:
+kramdown:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 exclude: ['README.md', 'LICENSE']
