@@ -20,7 +20,7 @@ GitHub  博客搭建过程
 访问路径就是 http://username.github.io/projectName
 
 <!-- more -->
-
+<!-- toc-begin -->
 + 2 独立项目 
 
 本次设置是用一个独立帐号进行设置，设置分支为 master ,并且将projectName设置为 username.github.io
@@ -50,4 +50,4 @@ _config.yml 中对markdown 的配置保留默认的（本例没有使用 kramdow
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 ##公式二
 $$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$$
-
+<!-- toc-end -->
