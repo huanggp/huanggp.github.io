@@ -5,14 +5,12 @@ date: 2015-12-20 14:44:06 -0700
 comments: false
 
 ---
-
-[TOC]
-
+ 
 GitHub  博客搭建过程
 
 
 
-＃ 一、 fork 一个基于jekyll的项目开始
+# 一、 fork 一个基于jekyll的项目开始
 
 + 1有多个项目存在
 
@@ -28,19 +26,16 @@ GitHub  博客搭建过程
 
 
 
-＃ 二、 配置MathJax 
+# 二、 配置MathJax 
 
 因为是页面渲染，所以在 _layout 目录下的所有文件的文件头上加入  MathJax 的js渲染
 
-｀｀｀
-
+```
 <script type="text/javascript"
-
  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-
 </script>
 
-｀｀｀
+```
 
 _config.yml 中对markdown 的配置保留默认的（本例没有使用 kramdown）
 
