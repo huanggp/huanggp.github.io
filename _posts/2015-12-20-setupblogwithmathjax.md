@@ -45,7 +45,8 @@ _config.yml 中对markdown 的配置保留默认的（本例没有使用 kramdow
 
 ##公式一
 
-$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+
+$$	x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 ##公式二
 
