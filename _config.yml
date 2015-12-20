@@ -26,7 +26,7 @@ disqus: ''
 comments: true
 #pygments: true
 safe: false
-excerpt_separator: "\n\n\n"
+excerpt_separator: "<!-- more -->"
 permalink: /:year/:month/:title
 paginate: 10
 
