@@ -6,10 +6,8 @@ comments: false
 ---
 
 
-[TOC]
-
 ubuntu 下安装sbt
-
+[TOC]
 
 
 #1 安装
