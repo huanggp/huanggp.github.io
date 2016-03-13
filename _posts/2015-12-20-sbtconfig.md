@@ -5,9 +5,11 @@ date: 2015-12-02 14:25:06 -0700
 comments: false
 ---
 
+[ TOC ]
 
 ubuntu 下安装sbt
-[TOC]
+
+
 
 
 #1 安装
